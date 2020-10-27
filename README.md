@@ -7,3 +7,4 @@
 - Multivariate Linear Regression
 - Implementing Linear Regression
 - Classification using Logistic Regression.
+A more refined version of the code can be found [here](https://github.com/BahaaKaaki/490-Intro-to-Machine-learning/blob/main/lab_assignment_1_full.ipynb)
