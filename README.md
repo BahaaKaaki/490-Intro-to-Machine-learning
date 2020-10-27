@@ -2,7 +2,7 @@
 
 ### Content 
 
-- [Linear and Logistic regression]() : Here, a csv movies dataset is used: the code is formed of: 
+-- [Linear and Logistic regression]() : Here, a csv movies dataset is used: the code is formed of: 
 - Exploratory Data Analysis and Visualization 
 - Multivariate Linear Regression
 - Implementing Linear Regression
