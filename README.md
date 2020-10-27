@@ -1,4 +1,4 @@
-## Intro to Machine learning using Pyhton
+## Intro to Machine learning using Python
 
 ### Content 
 
